@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ESYT2021
+- 👀 I’m interested in C#
+- 🌱 I’m currently learning C# and Python
+- 💞️ I’m looking to collaborate on ESYT2021/autoclicker and ESYT2021/DiscordMdBot
+- 📫 How to reach me // mason@evakstealth.co.uk
